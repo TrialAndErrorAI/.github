@@ -25,9 +25,9 @@ The "official" MCP server didn't exist. Now it does. Connect your iOS metrics to
 
 #### [RenovateAI](https://renovateai.app) - The Architecture Intelligence
 Revolutionary AI that understands space like humans do. **$3M+ ARR** ($260K MRR) and growing.
-- **90% iOS revenue** - Where real users pay for real value
 - **Computer vision meets design** - Teaching machines to see architecture
 - **B2B platform emerging** - Transforming how professionals work
+- **Real users, real revenue** - Product-market fit from day one
 
 #### VoxAI - Voice Synthesis Platform
 Your voice, any song. Celebrity impressions. Audio magic at your fingertips.
