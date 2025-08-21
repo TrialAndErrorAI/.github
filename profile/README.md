@@ -1,8 +1,5 @@
 # Trial and Error Inc 🧪⚡
 
-<div align="center">
-  <img src="https://github.com/TrialAndErrorAI/.github/assets/YOUR_USER_ID/logo.png" alt="Trial and Error Inc - AI Lab" width="400">
-</div>
 
 <div align="center">
   <h3>Building the AI-native future where humans and machines collaborate seamlessly.</h3>
@@ -110,7 +107,9 @@ Found a bug? Have an idea? Open an issue or PR. We respond fast because we ship 
 
 15+ builders across US, Canada, Turkey, India, and Philippines. United by one belief: AI isn't coming - it's here, and we're building it.
 
-Founded by **Sid Sarasvati** - serial builder, H1B entrepreneur who self-sponsored through his own company. Because when you believe in the future, you bet everything on it.
+**Founders:**
+- **Sid Sarasvati** (CEO) - Serial builder, H1B entrepreneur who self-sponsored through his own company. Vision, product, and relentless execution.
+- **Ercan Ozer** (CTO) - Technical architect of our AI products. The builder who turns impossible into production in days. From Turkey, building the future.
 
 ---
 
