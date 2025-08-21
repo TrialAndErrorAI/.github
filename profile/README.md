@@ -24,10 +24,12 @@ The "official" MCP server didn't exist. Now it does. Connect your iOS metrics to
 ### 🎨 AI Products in Production
 
 #### [RenovateAI](https://renovateai.app) - The Architecture Intelligence
-Revolutionary AI that understands space like humans do. **$3M+ ARR** ($260K MRR) and growing.
+Revolutionary AI that understands space like humans do.
+- **#28 Design Category** on iOS App Store (US)
+- **1.5M+ downloads** globally
 - **Computer vision meets design** - Teaching machines to see architecture
 - **B2B platform emerging** - Transforming how professionals work
-- **Real users, real revenue** - Product-market fit from day one
+- **Product-market fit achieved** - Profitable from day one
 
 #### VoxAI - Voice Synthesis Platform
 Your voice, any song. Celebrity impressions. Audio magic at your fingertips.
@@ -100,7 +102,7 @@ Found a bug? Have an idea? Open an issue or PR. We respond fast because we ship 
 - **Nov 2022**: Trial and Error Inc founded - The AI lab begins
 - **2023**: RenovateAI launches, immediate product-market fit
 - **2024**: Multiple AI products in production, cash flow positive
-- **Aug 2025**: $3M+ ARR ($260K MRR), 15+ person global team
+- **2025**: 15+ person global team, millions in revenue
 - **Aug 21, 2025**: First open source contribution - because sharing accelerates everyone
 
 ### The Team
