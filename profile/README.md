@@ -1,6 +1,12 @@
 # Trial and Error Inc 🧪⚡
 
-**Building the AI-native future where humans and machines collaborate seamlessly.**
+<div align="center">
+  <img src="https://github.com/TrialAndErrorAI/.github/assets/YOUR_USER_ID/logo.png" alt="Trial and Error Inc - AI Lab" width="400">
+</div>
+
+<div align="center">
+  <h3>Building the AI-native future where humans and machines collaborate seamlessly.</h3>
+</div>
 
 ---
 
