@@ -1,14 +1,14 @@
-# Trial and Error Inc 🚀
+# Trial and Error Inc 🧪⚡
 
-**We ship what doesn't exist.**
+**Building the AI-native future where humans and machines collaborate seamlessly.**
 
 ---
 
-## Who We Are
+## We Are an AI Lab
 
-Boston-based builders solving real problems with code. When npm packages return 404, we don't complain - we build.
+Boston-based AI research and product laboratory. Founded November 2022 with a simple thesis: AI will transform every slice of human experience. We're not waiting for that future - we're building it.
 
-Founded by engineers who got tired of waiting for "official" solutions that never work.
+What started as frustration with broken tools became a mission to reimagine how AI integrates into daily life. From architecture to voice, from automation to creation - we're systematically rebuilding the stack.
 
 ## What We Build
 
@@ -18,32 +18,58 @@ Founded by engineers who got tired of waiting for "official" solutions that neve
 *20 minutes from idea to production*  
 The "official" MCP server didn't exist. Now it does. Connect your iOS metrics to Claude instantly.
 
-### 🎨 Products
+### 🎨 AI Products in Production
 
-#### [RenovateAI](https://renovateai.app) 
-The AI that understands architecture. Reimagine any space with AI-powered renovation intelligence.
-- iOS & Web Apps
-- 90% revenue from iOS
-- Real users, real revenue
+#### [RenovateAI](https://renovateai.app) - The Architecture Intelligence
+Revolutionary AI that understands space like humans do. $2M+ ARR and growing.
+- **90% iOS revenue** - Where real users pay for real value
+- **Computer vision meets design** - Teaching machines to see architecture
+- **B2B platform emerging** - Transforming how professionals work
 
-#### ProcessBot
-Intelligent automation that actually works. Because copy-paste is not a strategy.
+#### VoxAI - Voice Synthesis Platform
+Your voice, any song. Celebrity impressions. Audio magic at your fingertips.
+- **Voice cloning & transformation** 
+- **AI music covers**
+- **Stem separation technology**
+
+#### ProcessBot - Intelligent Automation
+Because repetitive work is a bug, not a feature.
+- **Workflow automation**
+- **AI-powered decision making**
+- **Human-in-the-loop intelligence**
+
+### 🔬 Research Areas
+
+- **AGI Development** - Building agents that think, not just respond
+- **Multimodal AI** - Vision, voice, and reasoning in harmony
+- **AI-Native Interfaces** - UX that assumes intelligence
+- **Economic Energy Flow** - How value moves through AI systems
 
 ## Our Philosophy
 
 ```javascript
-const philosophy = {
-  "ship": "today, not tomorrow",
-  "build": "what doesn't exist",
-  "solve": "real problems",
-  "measure": "in working code"
+const trialAndError = {
+  "mission": "Build the foundation on which the work of life will be built",
+  "approach": "Ship working AI today, not promises tomorrow",
+  "metric": "Real users paying real money",
+  "speed": "20 minutes to MVP",
+  "scale": "Every slice of life enhanced by AI"
 };
 ```
 
-- **Thursday = No Meeting Day** - We build instead of talk
-- **20 Minute Rule** - If it takes longer than 20 minutes, we're overthinking
-- **Ship > Perfect** - Working code beats perfect documentation
-- **Open > Closed** - Share everything that helps developers
+### Core Beliefs
+
+- **AI-Native, Not AI-Added** - Built with intelligence from day one
+- **Economic Energy Flow** - Money is energy; direct it wisely
+- **Trial and Error Method** - Fail fast, learn faster, ship fastest
+- **Thursday = Build Day** - No meetings, pure creation
+- **Cash Flow is Oxygen** - Profitable from day one, not "someday"
+
+### The Thesis
+
+We believe AI will touch every moment of human experience. Not as an overlay, but as a foundation. Every app, every interaction, every decision - enhanced by machine intelligence working alongside human creativity.
+
+We're not building tools. We're building the platform on which the future runs.
 
 ## Tech Stack
 
@@ -66,12 +92,24 @@ Found a bug? Have an idea? Open an issue or PR. We respond fast because we ship 
 
 ---
 
-### Recent Wins
+### Milestones
 
-- **Aug 21, 2025**: Shipped App Store Connect MCP in 20 minutes
-- **Aug 2025**: RenovateAI hitting $2M+ ARR
-- **2025**: First public repo, more coming
+- **Nov 2022**: Trial and Error Inc founded - The AI lab begins
+- **2023**: RenovateAI launches, immediate product-market fit
+- **2024**: Multiple AI products in production, cash flow positive
+- **Aug 2025**: $2M+ ARR, 15+ person global team
+- **Aug 21, 2025**: First open source contribution - because sharing accelerates everyone
+
+### The Team
+
+15+ builders across US, Canada, Turkey, India, and Philippines. United by one belief: AI isn't coming - it's here, and we're building it.
+
+Founded by **Sid Sarasvati** - serial builder, H1B entrepreneur who self-sponsored through his own company. Because when you believe in the future, you bet everything on it.
 
 ---
 
-*"We don't wait for packages to work. We build."* - Trial and Error Inc
+*"We're not an AI company. We're THE AI lab building the foundation on which the work of life will be built."*
+
+**Trial and Error Inc** - Systematically transforming every slice of human experience through artificial intelligence.
+
+*Boston | 2022 | Building the inevitable future*
