@@ -102,12 +102,12 @@ Found a bug? Have an idea? Open an issue or PR. We respond fast because we ship 
 - **Nov 2022**: Trial and Error Inc founded - The AI lab begins
 - **2023**: RenovateAI launches, immediate product-market fit
 - **2024**: Multiple AI products in production, cash flow positive
-- **2025**: 15+ person global team, millions in revenue
+- **2025**: Millions in revenue, global reach
 - **Aug 21, 2025**: First open source contribution - because sharing accelerates everyone
 
 ### The Team
 
-15+ builders across US, Canada, Turkey, India, and Philippines. United by one belief: AI isn't coming - it's here, and we're building it.
+Builders across US, Canada, Turkey, India, and Philippines. United by one belief: AI isn't coming - it's here, and we're building it.
 
 **Founders:**
 - **Sid Sarasvati** (CEO) - Tech innovator and serial entrepreneur. Founded RenovateAI (#29 on US App Store), published ML research, RIT Computer Science. Builds products that make complex things simple.
