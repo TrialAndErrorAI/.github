@@ -1,7 +1,7 @@
 # Trial and Error Inc 🧪⚡
 
-
 <div align="center">
+  <img src="./assets/logo.png" alt="Trial and Error Inc - AI Lab" width="400">
   <h3>Building the AI-native future where humans and machines collaborate seamlessly.</h3>
 </div>
 
